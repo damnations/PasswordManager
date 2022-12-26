@@ -1,0 +1,5 @@
+create password
+check password and clear terminal
+update password
+prevent copied password from being added to clipboard
+add log file
